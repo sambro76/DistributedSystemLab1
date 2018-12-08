@@ -1,6 +1,5 @@
 Name: SAMNANG CHAY
-Id: 1000732321
-Summer '17
+Id: 2321
 Lab 01
 
 THE WRITEUP
